@@ -1,0 +1,13 @@
+body {
+    filter: invert(1) hue-rotate(180deg);
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  
+  a {
+    color: #58a6ff !important;
+  }
+  
+  img, video, canvas, iframe {
+    filter: invert(1) hue-rotate(180deg);
+  }
